@@ -1,0 +1,4 @@
+pre-commit:
+  commands:
+    size-check:
+      run: size-check
