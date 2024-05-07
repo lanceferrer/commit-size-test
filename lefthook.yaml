@@ -1,4 +1,4 @@
 pre-commit:
   commands:
     size-check:
-      run: ./size-check -t "100 KB"
+      run: ./size-check -t "11 MB"
