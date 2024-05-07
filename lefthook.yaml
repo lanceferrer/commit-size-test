@@ -1,4 +1,4 @@
 pre-commit:
   commands:
     size-check:
-      run: ../staged-size-checker/target/debug/staged-size-checker -s 5
+      run: ./size-check
