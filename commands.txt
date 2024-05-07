@@ -1,4 +1,0 @@
-dd if=/dev/zero of=too_large_1.txt bs=1024 count=7024
-dd if=/dev/zero of=too_large_2.txt bs=1024 count=8024
-dd if=/dev/zero of=ok_1.txt bs=1024 count=1024
-dd if=/dev/zero of=ok_2.txt bs=1024 count=2024
