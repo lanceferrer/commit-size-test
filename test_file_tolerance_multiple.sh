@@ -1,4 +1,4 @@
 #!/bin/bash
 
-dd if=/dev/zero of=too_large_1.txt bs=1024 count=102401
-dd if=/dev/zero of=too_large_2.txt bs=1024 count=200000
+dd if=/dev/zero of=_101MB.txt bs=1000000 count=101
+dd if=/dev/zero of=_200MB.txt bs=2000000 count=100
